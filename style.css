@@ -2,6 +2,30 @@ body {
     /* Set line height to 1.5 times the font size
          and use the OS’s UI font as the website font
        */
+       max-width: 800px;
+       margin: 0 auto;
+       padding: 0 16px;
+       
     font: 100%/1.5 system-ui;
   }
-  
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.6rem;
+    }
+}
