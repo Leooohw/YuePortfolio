@@ -100,6 +100,81 @@ form button {
     margin: 0;
 }
 
+.projects .project-year {
+    margin-top: 0.5em;
+    color: gray;
+    font-family: Baskerville, serif;
+    font-variant-numeric: oldstyle-nums;
+}
+
+/* Lab 5: pie chart + legend */
+#projects-pie-plot {
+    max-width: 20em;
+    margin-block: 2em;
+    overflow: visible;
+}
+
+#projects-pie-plot:has(path:hover) path:not(:hover) {
+    opacity: 0.5;
+}
+
+#projects-pie-plot path {
+    transition: 300ms;
+    cursor: pointer;
+}
+
+.selected {
+    --color: oklch(60% 45% 0) !important;
+}
+
+path.selected {
+    fill: var(--color);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2em;
+}
+
+.legend {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(9em, 1fr));
+    gap: 1em;
+    margin: 0;
+    padding: 1em;
+    border: 1px solid oklch(50% 10% 200 / 40%);
+    border-radius: 0.5em;
+    list-style: none;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+}
+
+.legend-item em {
+    color: gray;
+}
+
+.swatch {
+    display: inline-block;
+    width: 1em;
+    aspect-ratio: 1 / 1;
+    background: var(--color);
+    border-radius: 50%;
+}
+
+.searchBar {
+    width: 100%;
+    box-sizing: border-box;
+    margin-block: 1em 2em;
+    padding: 0.5em 0.75em;
+}
+
 /* GitHub stats: labels on row 1, numbers on row 2 */
 #profile-stats dl {
     display: grid;
