@@ -1,0 +1,74 @@
+[
+  {
+    "title": "DS3 EV Transitions Project",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A public-facing dashboard for the UCSD Center for Energy Research analyzing how EV adoption affects oil dependency across 50+ countries from 2010–2035, built with IEA energy data."
+  },
+  {
+    "title": "Power Outage Duration Prediction",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "An end-to-end machine learning pipeline that predicts power outage duration from 1,500+ U.S. outage events, using a tuned Random Forest regressor and permutation feature importance."
+  },
+  {
+    "title": "Lorem ipsum dolor sit",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Amet consectetur adipisicing elit",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Sed do eiusmod tempor",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Incididunt ut labore et",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Dolore magna aliqua enim",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Minim veniam quis nostrud",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Exercitation ullamco laboris nisi",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Aliquip ex ea commodo",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Duis aute irure dolor",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  },
+  {
+    "title": "Reprehenderit in voluptate velit",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatum. Illum vero, nesciunt quae inventore voluptatem impedit ipsa ut laborum aspernatur saepe accusantium maxime."
+  }
+]
